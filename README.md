@@ -5,5 +5,5 @@ This is tiny echo server built using TCP socket communication. When you run serv
 This is multithread echo server. Thread per request.
 
 # What you’ll need
-  Java 1.6+
-  Maven
+Java 1.6+
+Maven
